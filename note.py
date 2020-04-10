@@ -1,4 +1,5 @@
 
+# здесь типа запись что бы все различалось
 
 file = open("notes.txt", "r")
 current_text = file.read()
