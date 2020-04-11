@@ -1,5 +1,7 @@
 
 
+# новый супер мупер коммент
+
 file = open("notes.txt", "r")
 current_text = file.read()
 file.close()
